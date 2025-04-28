@@ -3,7 +3,8 @@
 este repositorio trata de los 5 ejercicios sobre condicionales y bucles propuestos en clase, para la solucion de estos me base en un menu con multiples opciones para la solucion de cada parametro, se puede evidenciar uso de condicionales, bucles y funciones.
 
 ### Ejercicio 1
-Clasificador de números Escribe un programa que pida al usuario un número entero y determine si es positivo, negativo o cero.✅
+#### Clasificador de números 
+Escribe un programa que pida al usuario un número entero y determine si es positivo, negativo o cero.✅
 
 ### Ejercicio 2
 Aprobado o reprobado Crea un programa que reciba la calificación de un estudiante (0 a 100) e indique si está aprobado (60 o más) o reprobado (menos de 60).✅
