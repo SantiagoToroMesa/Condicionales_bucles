@@ -1,7 +1,7 @@
 # Actividad: Condicionales y bucles 📌
 ## introducción 🧭
 este repositorio trata de los 5 ejercicios sobre condicionales y bucles propuestos en clase, para la solucion de estos me base en un menu con multiples opciones para la solucion de cada parametro, se puede evidenciar uso de condicionales, bucles y funciones.
-
+## Desarrollo 
 ### Ejercicio 1
 #### Clasificador de números 
 Escribe un programa que pida al usuario un número entero y determine si es positivo, negativo o cero.✅
